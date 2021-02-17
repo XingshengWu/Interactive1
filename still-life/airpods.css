@@ -1,0 +1,91 @@
+* {
+ transition: all 1500ms ease;
+}
+
+body{
+
+}
+
+
+.airpods{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background: lightgreen; 
+    
+}
+.square {
+    position: absolute;
+    width: 314px;
+    height: 197px;
+    background: #292929;
+    border-bottom-right-radius: 113px;
+    border-bottom-left-radius: 132px;
+    bottom: 148px;
+    left: 123px;
+    right: 24px;
+}
+
+.square:hover {
+    background: black; 
+    transform: translate(12px, 50%);
+}
+
+
+.handle1 {
+    width: 31px;
+    height: 115px;
+    background: #3d3e3d;
+    position: relative;
+    right: -183px;
+    bottom: -140px;
+    border-top-left-radius: 46px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 44px;
+    border-bottom-right-radius: 1px;
+}
+
+.handle {
+    width: 28px;
+    height: 116px;
+    background: #3d3e3d;
+    position: relative;
+    right: -312px;
+    bottom: -140px;
+    border-top-left-radius: 46px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 44px;
+    border-bottom-right-radius: 1px;
+}
+.circle {
+    width: 71px;
+    height: 84px;
+    background: #9e9e9e;
+    position: absolute;
+    left: 360px;
+    bottom: 407px;
+    border-radius: 59%;
+    border-top-left-radius: 46px;
+    border-top-right-radius: 44px;
+}
+
+.circle:hover {
+    background: grey; 
+    transform: rotate(90deg);
+}
+
+.circle2 {
+    width: 71px;
+    height: 84px;
+    background: #9e9e9e;
+    position: absolute;
+    left: 130px;
+    bottom: 402px;
+    border-radius: 61%;
+    border-top-left-radius: 46px;
+    border-top-right-radius: 44px;
+}
+
+.inline{
+    display: inline-block;
+}
