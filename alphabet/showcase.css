@@ -1,0 +1,38 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: black;	
+}
+
+/* navigation */
+
+nav {
+	padding: 40px;
+}
+
+/* stage */
+
+#showcase {
+	width: 1200px;
+	height: 1200px;
+	margin: auto;
+	overflow: visible;
+	position: relative;
+	top: calc(50vh - 400px);
+}
+
+/*img{
+	display: block;
+}*/
+
+/* images */
+
+svg path {
+	fill:red;
+}
+svg:hover path {
+	fill: lightblue ;
+}

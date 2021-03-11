@@ -1,7 +1,13 @@
+
+@font-face {
+  font-family: "DotGothic16-Regular";
+  src: url("../assets/font/DotGothic16-Regular.ttf") format("truetype");
+}
 body { 
-	background: pink; 
+	font-family: "DotGothic16-Regular";
+	background: lightgreen; 
 	color: green;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 p { 
