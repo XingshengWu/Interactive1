@@ -46,7 +46,7 @@ body {
   display:table-cell;
   animation: animate 5s linear infinite;
 }
-
+@keyframes animate
 {
   0%,100%
   {
@@ -118,7 +118,7 @@ body {
 }
 
 .e {
-  font-size: 30px;  
+  font-size: 45px;  
   color:pink;
   grid-column: 6 / 7;
   grid-row: 1 / 6;
