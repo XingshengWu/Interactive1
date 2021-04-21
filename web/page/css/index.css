@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: none;
+}
+.banner{
+	margin:50px 300px;;
+}
+.num{
+		
+}
+.num1{
+	display:inline;
+	margin:0 100px;	
+}
+.num2{
+	display:inline;
+	margin:0 120px;
+}
+.num3{
+	display:inline;
+	margin:0 120px;
+}
+.num4{
+	display:inline;
+	margin:0 120px;
+}
+.about{
+	margin-left:1650px;
+	margin-top:-600px;
+	height:940px;
+	padding-top:180px;
+	}
+.toe1{
+	margin-top:-450px;
+	margin-left:200px;
+	transform: skew(-10deg)
+	}
+.toe2{
+	margin-top:-300px;
+	padding-left:1000px;
+	transform: skew(15deg)
+}

@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: none;
+}
+.text{
+	width:70%;
+	height:450px;
+	border-right:10px solid #000;
+}
+.text p{
+	padding-top:70px;
+	font-size:2.5em;
+	font-family:'Franklin gothic';
+	line-height:80px;
+	letter-spacing:3px;
+	overflow: hidden;
+	text-align:center;
+}
+.about{
+	margin-top:-425px;
+	margin-right:0px;
+	border-bottom:15px solid #000;
+}
+.home{
+	margin-right:200px;
+	
+	}
+.num1{
+	display:inline;
+	margin:0 250px;
+}
+.num2{
+	display:inline;
+	margin-right:80px;
+}
+.num3{
+	margin-right:380px;
+	margin-top:80px;
+	
+}
+.num4{
+	margin-right:85px;
+	margin-top:-100px;
+	
+}
+.bottom p{
+	font-color:#000;
+	font-size:2.5em;
+	font-family:'Franklin gothic';
+	overflow: hidden;
+	text-align:left;
+	text-decoration:none;
+}
+.A{margin-top:50px;
+margin-left:100px;}
+.B{
+margin-top:-390px;
+margin-left:800px;
+}
+.C{margin-top:-540px;
+margin-left:1400px;}
+.D{margin-top:-400px;
+margin-left:1900px;}
+	
