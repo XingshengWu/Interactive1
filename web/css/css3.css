@@ -6,11 +6,12 @@
 	border: 0;
 	background: none;
 }
-.head{
-	width:1740px;
-	height:280px;	
+.head {
+    width: 1712px;
+    height: 280px;
 }
 .head h1{
+	font-family:'Franklin gothic';
 	margin-left: 400px;
 	font-size: 4em;
 }
@@ -28,12 +29,12 @@
 	letter-spacing:3px;
 	overflow: hidden;
 }
-.rightside3{
-	margin-left: 1740px;
-	margin-top:-1045px;
-	height:1095px;
-	overflow: hidden;
-	}
+.rightside3 {
+    margin-left: 1703px;
+    margin-top: -1035px;
+    height: 1395px;
+    overflow: hidden;
+}
 .top3{
 	margin-top:70px;
 	padding-left:20px;

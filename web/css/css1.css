@@ -6,11 +6,13 @@
 	border: 0;
 	background: none;
 }
-.head{
-	width:1740px;
-	height:280px;	
-}
+.head {
+    width: 1729px;
+    height: 280px;
+}	
+
 .head h1{
+	font-family:'Franklin gothic';
 	margin-left: 700px;
 	font-size: 10em;
 }
@@ -28,12 +30,12 @@
 	letter-spacing:3px;
 	overflow: hidden;
 }
-.rightside1{
-	margin-left: 1740px;
-	margin-top:-965px;
-	height:1095px;
-	overflow: hidden;
-	}
+.rightside1 {
+    margin-left: 1720px;
+    margin-top: -1007px;
+    height: 1403px;
+    overflow: hidden;
+}
 .top1{
 	padding-top:70px;
 	padding-left:20px;
@@ -42,6 +44,18 @@
 	margin-top:650px;
 	padding-left:40px;
 	overflow: hidden;
+}
+
+body.darkmode {
+	background: black;
+	color: black;
+
+	/*	redefine a CSS variable */
+	--accent-color: rgb(0,255,0);
+}
+
+body.darkmode button{
+	color: black;
 }
 
 

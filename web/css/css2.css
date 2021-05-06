@@ -7,10 +7,11 @@
 	background: none;
 }
 .head{
-	width:1740px;
+	width:1699px;
 	height:280px;	
 }
 .head h1{
+	font-family:'Franklin gothic';
 	margin-left: 300px;
 	font-size: 4em;
 }
@@ -28,16 +29,18 @@
 	letter-spacing:3px;
 	overflow: hidden;
 }
-.rightside2{
-	margin-left: 1740px;
-	margin-top:-1000px;//这里改右边div的上边距，离顶部的空白距离
-	height:1095px;//这里改右边div的高度
-	overflow: hidden;
-	}
-.top2{
-	margin-top:70px;//这里改右边那个home图片离顶部的距离
-	padding-left:20px;
-	overflow: hidden;}
+.rightside2 {
+    margin-left: 1692px;
+    margin-top: -1018px;   
+    height: 1303px;
+    overflow: hidden;
+}
+.top2 {
+    margin-top: 70px;
+    padding-left: 16px;
+    left: 20px;
+    overflow: hidden;
+}
 .bottom2{
 	margin-top:650px;
 	padding-left:40px;//这里改数字离左边边界的距离
